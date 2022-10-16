@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.db3c4415.css",
+    "main.js": "/react-portfolio/static/js/main.d993c80c.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/recent-photo.jpg": "/react-portfolio/static/media/recent-photo.4f76d429196bb1390ca8.jpg",
+    "static/media/CryptoTunnel.png": "/react-portfolio/static/media/CryptoTunnel.38394d682a86a5d6c508.png",
+    "static/media/ECommerce.png": "/react-portfolio/static/media/ECommerce.b0d7afcd7e50cc5de293.png",
+    "static/media/EmployeeTracker.png": "/react-portfolio/static/media/EmployeeTracker.47541da241a4aeef9c31.png",
+    "static/media/Salla-Resume.pdf": "/react-portfolio/static/media/Salla-Resume.6807d89198c50a9e9f65.pdf",
+    "static/media/WorkDayScheduler.png": "/react-portfolio/static/media/WorkDayScheduler.1e12c9f22b4404a0a73d.png",
+    "static/media/CodingQuiz.png": "/react-portfolio/static/media/CodingQuiz.9eabe47ad267ce43f089.png",
+    "static/media/NoteTaker.png": "/react-portfolio/static/media/NoteTaker.842826b196812c6e7dfc.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.db3c4415.css.map": "/react-portfolio/static/css/main.db3c4415.css.map",
+    "main.d993c80c.js.map": "/react-portfolio/static/js/main.d993c80c.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db3c4415.css",
+    "static/js/main.d993c80c.js"
+  ]
+}
