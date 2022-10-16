@@ -23,7 +23,7 @@ function Resume() {
                     <li>Responsive design</li>
                 </ol>
                 <br></br>
-                <h5>Back-End Profieciencies</h5>
+                <h5>Back-End Proficiencies</h5>
                 <ol>
                     <li>APIs</li>
                     <li>NodeJS</li>

@@ -4,7 +4,7 @@ import Nav from '../Nav';
 function Header(props) {
     const { currentTab, setCurrentTab } = props;
 
-    return(
+    return (
         <header>
             <div>
                 <h2>Salla Ball</h2>

@@ -3,9 +3,9 @@ import React from 'react';
 function Nav(props) {
     const { currentTab, setCurrentTab } = props;
     
-    return(
+    return (
         <nav> 
-            <ul className='flex-row mobile-view'>
+            <ul className="flex-row mobile-view">
                 <li className={currentTab === "about" ? "mx-2 navActive" : "mx-2"}>
                     <span onClick={() => setCurrentTab("about")}>About Me</span>
                 </li>

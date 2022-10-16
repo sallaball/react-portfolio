@@ -3,7 +3,7 @@ import React from 'react';
 function Footer() {
     return (
         <footer className='footer'>
-            <div>
+            <div className='footerDiv'>
                 <a
                 href="http://github.com/Sallaball"
                 target="_blank"
@@ -19,7 +19,7 @@ function Footer() {
                     <a
                     href='https://www.linkedin.com/in/salla-ball-7ab057b3?trk=profile-badge'
                     target="_blank"
-                    rel="noopener norefferer"
+                    rel="noopener noreferrer"
                     >
                         <img
                         src={require("../../assets/logos/linkedin-logo.png")}
@@ -27,6 +27,7 @@ function Footer() {
                         className='logo'
                     ></img>
                     </a>
+                    </div>
                 <div>
                     <a
                     href='http://twitter.com/salla_ball'
@@ -42,7 +43,6 @@ function Footer() {
                 </div>
                
                 </div>
-            </div>
             
         </footer>
     )

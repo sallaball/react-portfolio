@@ -7,4 +7,7 @@ export function capitalizeFirstLetter(string) {
     return re.test(String(email).toLowerCase());
   }
 
-  
+  export function checkBlank(field) {
+    var re = /^\s*$/;
+    return re.test(String(field).toLowerCase());
+  } 

@@ -27,7 +27,7 @@ function Contact() {
         }
 
         if (!errorMessage) {
-            setFormState({...formState, [e.target.name]: e.target.value });
+            setFormState({ ...formState, [e.target.name]: e.target.value });
         }
     }
 
@@ -39,8 +39,9 @@ function Contact() {
                 setErrorMessage("");
             }
         }
+
         if (!errorMessage) {
-            setErrorMessage({...formState, [e.target.name]: e.target.value });
+            setFormState({ ...formState, [e.target.name]: e.target.value });
         }
     }
 
@@ -90,7 +91,7 @@ function Contact() {
             </form>
             </div>
         </section>
-    )
+    );
 }
 
 export default Contact;

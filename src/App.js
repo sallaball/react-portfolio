@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
 import './App.css';
-import About from './components/About';
-import Footer from './components/Footer';
+import React, { useState } from 'react';
 import Header from './components/Header';
+import Footer from './components/Footer';
+import About from './components/About';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
 import Resume from './components/Resume';
@@ -13,13 +13,13 @@ function App() {
   const renderTab = () => {
     switch (currentTab) {
       case "about":
-          return <About />
+          return <About />;
       case "portfolio":
-        return <Portfolio />
+        return <Portfolio />;
       case "contact":
-        return <Contact />
+        return <Contact />;
       case "resume":
-        return <Resume />
+        return <Resume />;
       default:
         return null;
     }
@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div>
-      <div className="mobile header">
+      <div className="mobile-header">
           <Header currentTab={currentTab} setCurrentTab={setCurrentTab}></Header>
       </div>
       <div>
