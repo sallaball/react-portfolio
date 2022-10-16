@@ -21,7 +21,7 @@ A portfolio where you can find my info, some websites I have created, my resume,
 https://github.com/sallaball/react-portfolio
 
 ## Link to application
-http://sallaball.github.io/react-portfolio
+http://sallaball.github.io/react-portfolio/
 
 
 ###  Contribution
