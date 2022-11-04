@@ -18,6 +18,27 @@ function Portfolio() {
             deployed: 'https://davidkd5.github.io/crypto_tunnel/',
         },
         {
+            name: 'Liquorlicious',
+            description:
+            'Search your favorite drink recipes or look for recipes based on an ingredient you searched.',
+            image: 'liquorlicious-screenshot.png',
+            technologies: [
+                'git',
+                'React',
+                'Apollo Server',
+                'GraphQL',
+                'React router',
+                'bcrypt',
+                'oncurrently',
+                'jsonwebtoken',
+                'jwt decode',
+                '@apollo/client'
+            ],
+            github: 'https://github.com/sallaball/liquorlicious',
+            deployed: 'https://immense-lowlands-27083.herokuapp.com/',
+        },
+
+        {
             name: 'Work Day Scheduler',
             description:
             'A calendar to keep up with your busy work schedule',
